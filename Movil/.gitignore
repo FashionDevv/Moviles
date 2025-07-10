@@ -1,0 +1,98 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.melos_tool/
+
+# Generated files
+**/*.lock
+*.iml
+
+# Android
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.settings/
+android/.project
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/key.properties
+
+# iOS/macOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/.flutter-plugins
+ios/.flutter-plugins-dependencies
+ios/.generated/
+ios/Runner.xcworkspace/
+ios/Runner.xcuserstate
+ios/Podfile.lock
+ios/Podfile.generated.lock
+ios/.metadata
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/.symlinks/
+macos/Pods/
+macos/.flutter-plugins
+macos/.flutter-plugins-dependencies
+macos/.generated/
+macos/Runner.xcworkspace/
+macos/Runner.xcuserstate
+macos/Podfile.lock
+macos/Podfile.generated.lock
+macos/.metadata
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdatad
+*.xcsettings
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# VS Code
+.vscode/
+
+# IDEs
+.idea/
+*.swp
+
+# Obfuscation
+app.*.symbols
+
+# Web
+web/.dart_tool/
+web/build/
+
+# Windows
+windows/.dart_tool/
+windows/build/
+windows/.generated/
+windows/Runner.sln
+windows/Runner.vcxproj*
+windows/Runner.xcworkspace/
+
+# Linux
+linux/.dart_tool/
+linux/build/
+linux/.generated/
+linux/Runner.sln
+linux/Runner.vcxproj*
+
+# Fuchsia
+fuchsia/.dart_tool/
+fuchsia/build/
+
+# Misc
+.DS_Store
+*.log
