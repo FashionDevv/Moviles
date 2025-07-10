@@ -1,5 +1,12 @@
 # 🛒👗 Fashion Lab 🛍️
 
+## 👥 Integrantes
+
+- ⚙️ Alexander Toro Gutierrez
+- ⚙️ Jojhan David Torres Tobón
+- ⚙️ Jhoider Felipe Rúa Giraldo
+- ⚙️ Jose Luis Torres Montoya
+
 ## 📱 Movil
 
 ### Configuracion inicial del proyecto
